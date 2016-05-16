@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1461711117 source:c:\users\rommelcastillo\desktop\periodo2_2016\numeroaleatorio\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+

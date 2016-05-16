@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1462228452 source:c:\users\rommelcastillo\desktop\periodo2_2016\ciclowhile1\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1462921565 source:c:\users\rommelcastillo\desktop\periodo2_2016\cicloanidado par\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
